@@ -1,0 +1,5 @@
+kind = "program"
+name = "bs-black-tea"
+skeleton = "driver"
+[dependencies]
+bs-black-tea_lib = "version"

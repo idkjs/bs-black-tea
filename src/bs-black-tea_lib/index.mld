@@ -1,0 +1,8 @@
+
+{1 Library bs-black-tea_lib}
+
+This is the description
+of the bs-black-tea OCaml project
+
+
+The entry point of this library is the module: {!Bs_black_tea_lib}.
